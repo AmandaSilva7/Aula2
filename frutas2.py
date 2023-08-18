@@ -1,0 +1,1 @@
+frutas2 =['maça', 'abacaxi','maça', 'pera','maça', 'uva']
